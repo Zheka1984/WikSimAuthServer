@@ -1,0 +1,9 @@
+com\example\UsersDBQuery.class
+com\example\UsersService.class
+com\example\UserRepository.class
+com\example\BasicApplication.class
+com\example\ConfigOAuth2.class
+com\example\UsersPojo.class
+com\example\UsersHelper.class
+com\example\SecurityConfiguration.class
+com\example\UserController.class
